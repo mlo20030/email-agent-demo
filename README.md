@@ -1,6 +1,6 @@
 # Email Assistant — a deployable Deep Agent
 
-A stateful email assistant for **Liam** built with [LangChain Deep Agents](https://docs.langchain.com/oss/python/deepagents/). It manages an inbox over time: it triages incoming email (via a delegated **triage subagent**), drafts replies, and remembers senders and Liam's preferences across conversations using long-term memory.
+A stateful email assistant for **Morgan** built with [LangChain Deep Agents](https://docs.langchain.com/oss/python/deepagents/). It manages an inbox over time: it triages incoming email (via a delegated **triage subagent**), drafts replies, and remembers senders and Liam's preferences across conversations using long-term memory.
 
 It's built to run locally with `langgraph dev` and to deploy to **LangSmith Deployments**.
 
