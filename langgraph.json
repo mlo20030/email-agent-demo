@@ -1,0 +1,10 @@
+{
+  "dockerfile_lines": [],
+  "graphs": {
+    "Email Assistant": "./agent.py:agent"
+  },
+  "env": ".env",
+  "dependencies": [
+    "."
+  ]
+}
